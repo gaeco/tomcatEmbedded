@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.tomcat:tomcat-jasper:8.0.21">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-jasper/8.0.21/231167bf7ba2b05a2030b8adaa77762a01716b3b/tomcat-jasper-8.0.21.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-jasper/8.0.21/2819b5da68c46bdaed3d5f6e90c29308e609fc76/tomcat-jasper-8.0.21-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
